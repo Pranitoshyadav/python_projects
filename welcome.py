@@ -1,0 +1,5 @@
+print("Welcome to the world of coding")
+print(5)
+print(6.7)
+print("Pranitosh", end = "Yadav")
+print("\nI am very smart")
